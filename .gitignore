@@ -1,0 +1,12 @@
+
+Help/\.idea/artifacts/
+
+Help/\.idea/
+
+Help/Help\.iml
+
+Help/out/artifacts/Help_jar/Help\.jar
+
+*.class
+
+Help/out/production/Help/plugin\.config
